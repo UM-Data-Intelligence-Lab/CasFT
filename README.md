@@ -41,15 +41,17 @@ The datasets we used in the paper are come from:
 Prediction and Understanding of Information Cascades](https://dl.acm.org/doi/10.1145/3132847.3132973), CIKM, 2017). You can also download Weibo dataset [here](https://drive.google.com/file/d/1fgkLeFRYQDQOKPujsmn61sGbJt6PaERF/view?usp=sharing) in Google Drive.  
 - [APS](https://journals.aps.org/datasets) (Released by *American Physical Society*, obtained at Jan 17, 2019).  
 
-##Reference
+## Reference
 If you use our code or datasets, please cite:
-```shell
-@article{jing2024casft,
+```
+@inproceedings{jing2024casft,
   title={CasFT: Future Trend Modeling for Information Popularity Prediction with Dynamic Cues-Driven Diffusion Models},
   author={Jing, Xin and Jing, Yichen and Lu, Yuhuan and Deng, Bangchao and Chen, Xueqin and Yang, Dingqi},
-  journal={arXiv preprint arXiv:2409.16619},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={},
+  number={},
+  pages={},
+  year={2025}
 }
-
 ```
 
