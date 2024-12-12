@@ -1,10 +1,8 @@
 # CasFT
 CasFT leverages observed information Cascades and dynamic cues modeled via neural ODEs as conditions to guide the generation of Future popularity-increasing Trends through a diffusion model.
-- Jing, X., Jing, Y., Lu, Y., Deng, B., Chen, X., & Yang, D. (2024). CasFT: Future Trend Modeling for Information Popularity Prediction with Dynamic Cues-Driven Diffusion Models.
-In Proceedings of the AAAI Conference on Artificial Intelligence 2025.
+- Jing, X., Jing, Y., Lu, Y., Deng, B., Chen, X., & Yang, D*. (2024). CasFT: Future Trend Modeling for Information Popularity Prediction with Dynamic Cues-Driven Diffusion Models.
+In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) 2025.
 
-
-## Basic Usage
 
 ### Environment
 
@@ -48,8 +46,6 @@ If you use our code or datasets, please cite:
   title={CasFT: Future Trend Modeling for Information Popularity Prediction with Dynamic Cues-Driven Diffusion Models},
   author={Jing, Xin and Jing, Yichen and Lu, Yuhuan and Deng, Bangchao and Chen, Xueqin and Yang, Dingqi},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={},
-  number={},
   pages={},
   year={2025}
 }
